@@ -37,7 +37,7 @@ Please see `docs/ArchitectureDesign.md` for more specific details for our design
 
 ## Architecture Visual
 
-<img src = "docs/architectur_visual.png" width = "400" height = "100">
+<img src = "docs/architecture_visual.png" width = "400" height = "100">
 
 We will go through three major functions issuance, redemption, and transfer below. 
 
