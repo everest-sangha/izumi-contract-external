@@ -1,0 +1,12 @@
+.embark
+chains.json
+config/livenet/password
+config/production/password
+coverage
+dist
+embarkArtifacts
+node_modules
+package-lock.json
+build
+
+abi_defs.json
