@@ -4,7 +4,7 @@ Our security token is an instance of an ERC-1594, with additional data mixed in,
 
 Please look at below and `docs/ResearchSTO.md` for more details as to why we have chosen ERC1594 as opposed to other interfaces. Furthemore, the spirit of blockchain is to cultivate open-source protocols and improve existing standards. We are pragramtic in that we care about actual implementation that can be deployed and popularized.
 
-The documents and implementations are only meant for investors to have an understanding about EVG's security token platform Izumi.
+The documents and implementations are only meant for investors to have an understanding about EVG's security token platform Izumi. The codes are not runnable in this repository since we have taken out some dependencies for Embark. 
 
 ## Decision for ERC-1594
 
