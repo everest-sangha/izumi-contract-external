@@ -52,7 +52,7 @@ Just read the multi-sig documentation well, and experiment with it, to not make 
 The flexibility of allowing any type of address to be used,
  means we can have fast-paced development and testing with regular accounts, and use multi-sigs for testing of release candidates and in production. -->
 
-### Force-transfers
+## Force-transfers
 
 Force-transfers are a re-occurring theme in security tokens. Not all standards support them explicitly however.
 From a legal point of view, it is important to be able to make changes when forced by a regulator.
